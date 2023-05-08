@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @devanshswaroop
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning BTech
-- 📫 Reach me at instagram: @__devansh_s
+- 🌱 I’m currently learning BTech in Information Technology 
 
 <!---
 devanshswaroop/devanshswaroop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
